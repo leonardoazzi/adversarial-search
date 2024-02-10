@@ -1,11 +1,5 @@
-# Headkicker - jogos de tabuleiro com agentes adversários
-
-## Grupo
-Turma A
-
-- Alisson Claudino de Jesus 00246796
-- Leonardo Azzi Martins 00323721
-- Vitor Pedrollo dos Santos 00312948
+# Headkicker
+Implementação do Jogo da Velha e Othello com agentes adversários.
 
 ## Bibliotecas
 ```
@@ -90,6 +84,13 @@ Então, por levar em conta também a quantidade de movimentos legais poderá faz
 - "Foi bem tranquilo, usei apenas o debugger e o conteúdo da disciplina. O algoritmo minimax desenvolvi a partir dos próprios slides. Eu acho que foi bem legal o trabalho em si, não tenho o que reclamar sinceramente. Não levei muito tempo pra fazer as coisas."
 - "Curti bastante os trabalhos que envolvem jogos, principalmente este. É uma pena que nossos cronogramas na graduação não nos permitem tempo de qualidade para nos divertirmos e aprofundarmos mais em trabalhos como este. Utilizei além do debugger, o próprio enunciado e estrutura de documentação do trabalho. Particularmente, não utilizei e nem utilizo nenhum assistente de IA, e acredito que eles mais me atrapalham do que me ajudam. Uma LLM consegue te formular uma solução muito errada de uma forma muito convincente. Busco por documentações e fóruns como o Stack Overflow, pois são muito mais transparentes."
 - "Concordo que o trabalho foi tranquilo. À partir do momento que a base do algoritmo está pronta, fazer mudanças e testes de execução fica extremamente simples. Eu particularmente utilizei o chatGPT 3.5 para ter ideias de heurísticas úteis para implementar no othello_minimax_custom.py, inclusive a mistura das 3 heurísticas usadas foi baseada em uma ideia dele. Além disso, também utilizei o chatGPT para simplificar e explicar trechos de código e entender melhor o que estava acontecendo por de baixo dos panos. Quanto ao enunciado do trabalho, achei que o item "i" do Othello ficou um pouco confuso, não ficou claro com relação a qual jogador deveria ser considerada a vitória ou a derrota. De resto, achei que o enunciado está bem claro sobre o que deve ser desenvolvido."
+
+## Grupo
+Turma A
+
+- Alisson Claudino de Jesus
+- Leonardo Azzi Martins
+- Vitor Pedrollo dos Santos
 
 ---
 Universidade Federal do Rio Grande do Sul
